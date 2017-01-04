@@ -1,0 +1,7 @@
+<Application>
+	<StreamManager>
+		<VirtualDirectory>
+			<Streams>/;/usr/local/ams/applications/server/media</Streams>
+		</VirtualDirectory>
+	</StreamManager>
+</Application>
