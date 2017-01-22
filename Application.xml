@@ -2,6 +2,7 @@
 	<StreamManager>
 		<VirtualDirectory>
 			<Streams>/;/usr/local/ams/applications/server/media</Streams>
+			<Streams>/;/home/tomcat/grassroot/upload</Streams>
 		</VirtualDirectory>
 	</StreamManager>
 </Application>
